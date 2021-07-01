@@ -11,6 +11,6 @@ Python script to take a picture with your computer's default webcam.
 
 # Enjoy
 
-<div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/jUVVnOUypdrxVS9yj8/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
+<img src="https://giphy.com/embed/jUVVnOUypdrxVS9yj8/video" alt="Enjoy" width="500" height="600">
 
 _Script was wrote by Fiordaliso Samy_
