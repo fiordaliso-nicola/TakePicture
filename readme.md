@@ -1,8 +1,8 @@
-#TakePicture
+# TakePicture
 
 Python script to take a picture with your computer's default webcam.
 
-#Requirements
+# Requirements
 
 **You need :**
 
@@ -10,7 +10,5 @@ Python script to take a picture with your computer's default webcam.
 - [ ] A webcam connected to your computer
 
 # Enjoy
-
-<img src="https://giphy.com/embed/jUVVnOUypdrxVS9yj8/video" alt="Enjoy" width="500" height="600">
 
 _Script was wrote by Fiordaliso Samy_
